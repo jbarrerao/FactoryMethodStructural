@@ -1,0 +1,7 @@
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodStructural\FactoryMethodStructural\obj\Debug\FactoryMethodStructural.csprojAssemblyReference.cache
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodStructural\FactoryMethodStructural\obj\Debug\FactoryMethodStructural.csproj.CoreCompileInputs.cache
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodStructural\FactoryMethodStructural\bin\Debug\FactoryMethodStructural.exe.config
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodStructural\FactoryMethodStructural\bin\Debug\FactoryMethodStructural.exe
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodStructural\FactoryMethodStructural\bin\Debug\FactoryMethodStructural.pdb
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodStructural\FactoryMethodStructural\obj\Debug\FactoryMethodStructural.exe
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodStructural\FactoryMethodStructural\obj\Debug\FactoryMethodStructural.pdb
